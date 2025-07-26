@@ -1,0 +1,5 @@
+Choose algorithm:
+1. BFS
+2. A*
+3. IDA*
+SORRY NOT SOLVABLE
